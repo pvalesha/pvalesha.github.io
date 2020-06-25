@@ -1,0 +1,43 @@
+body{
+    background-image:url("aa.jpg");
+
+    margin-top: 23%;
+    margin-left: 35%;
+    width:500px;
+    height:500px;
+    background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  font-family: inherit;
+  font-weight: 1000;
+
+}
+
+div{
+    display:inline;
+    display: flow-root;
+}
+
+img{
+    width: 5%;
+    height: 5%;
+}
+
+p,nav{
+    text-align: center;
+    font-size: 120%;
+}
+h1{
+    text-align: center;
+    font-size: 200%;
+}
+
+#resume{
+
+    text-decoration: none;
+    color:black;
+}
+
+#resume:hover{
+    color:blue;
+}
